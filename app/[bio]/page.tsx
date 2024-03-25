@@ -28,7 +28,7 @@ export default function BioPage() {
             London, United Kingdom
           </h3>
 
-          <p className="text-sm font-medium mt-5">
+          <p className="text-sm font-medium text-base-content mt-3">
             Software Engineer and avid reader.
           </p>
 
